@@ -1,2 +1,2 @@
-# naive_baes
+# Naive Baes
 Code for Big Byte competition
