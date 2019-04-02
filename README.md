@@ -50,4 +50,3 @@ You can find the recommendation in the slide deck in the documents folder above 
 ## Contributors: 
 
 Muskaan Gupta, Shubham Periwal, Zhuo Yunying (Kaelyn)
-Naive Baes
