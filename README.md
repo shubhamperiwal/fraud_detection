@@ -1,4 +1,4 @@
-# Naive Baes
+# Fraud Detection - Team Naive Baes
 
 ## Question Statement
 
@@ -50,3 +50,4 @@ You can find the recommendation in the slide deck in the documents folder above 
 ## Contributors: 
 
 Muskaan Gupta, Shubham Periwal, Zhuo Yunying (Kaelyn)
+Naive Baes
