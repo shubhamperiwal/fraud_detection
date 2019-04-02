@@ -47,6 +47,6 @@ You can find the recommendation in the slide deck in the documents folder above 
 
 1st Runners up :)
 
-### Contributors: 
+## Contributors: 
 
 Muskaan Gupta, Shubham Periwal, Zhuo Yunying (Kaelyn)
